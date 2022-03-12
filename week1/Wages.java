@@ -9,7 +9,6 @@ public class Wages
 {
 	public static void main(String[] args) 
 	{
-	
 		double rate, hrs, over, wage, total;
 		String rateStr, hoursStr;
 
